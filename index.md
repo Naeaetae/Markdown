@@ -1,7 +1,7 @@
 ## Hannu Karppinen web-tehtävä
 
 
-### <ins>Ensimmäiset</ins>:
+### <ins>Ensimmäiset</ins>:  
 \
 Writing in Markdown is _not_ that hard!
 
@@ -15,7 +15,7 @@ I **will** complete these lessons!
 If you're thinking to yourself, **_This is unbelievable_**, you'd probably be right.
 
 
-### <ins>Toiset:</ins>
+### <ins>Toiset:</ins>  
 \
 # Header one
 ## Header two
@@ -31,7 +31,7 @@ If you're thinking to yourself, **_This is unbelievable_**, you'd probably be ri
 Here's some words about the book _One Hundred Years..._.
 
 
-### <ins>Kolmannet:</ins>
+### <ins>Kolmannet:</ins>  
 \
 [Search for it.](www.google.com)
 
@@ -69,7 +69,7 @@ Well, do I have [the website for you][another fun place]!
 [Orange]: http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png
 
 
-### <ins>Neljännet:</ins>
+### <ins>Neljännet:</ins>  
 \
 I read this interesting quote the other day:
 
@@ -88,7 +88,6 @@ I read this interesting quote the other day:
 
 
 ### <ins>Viidennet:</ins>  
-
 
 * Flour
 * Cheese
